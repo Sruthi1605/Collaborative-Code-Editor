@@ -42,4 +42,4 @@ Save code locally or execute it to view the output.
 ## Screenshots
 Add relevant screenshots of the application here.
 ### Outline  
-![Outline](screenshots/editor-interface.png)
+![Outline](Outline.jpg)
