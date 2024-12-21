@@ -40,7 +40,7 @@ Toggle between light and dark themes using the theme button.
 Save code locally or execute it to view the output.
 
 ## Screenshots
-Add relevant screenshots of the application here.
+
 ### Outline  
 ![Outline](Outline.jpg)
 ### Code Collaboration working  
